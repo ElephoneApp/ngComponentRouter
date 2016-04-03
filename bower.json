@@ -6,10 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ElephoneApp/ngComponentRouter.git"
-  },
   "keywords": [
     "ng",
     "angular",
@@ -18,5 +14,4 @@
   ],
   "author": "angular-core-team",
   "license": "MIT",
-  "homepage": "https://github.com/ElephoneApp/ngComponentRouter#readme"
 }
