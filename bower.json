@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://duluca@github.com/excellalabs/ngComponentRouter.git"
+    "url": "git+https://github.com/ElephoneApp/ngComponentRouter.git"
   },
   "keywords": [
     "ng",
@@ -18,8 +18,5 @@
   ],
   "author": "angular-core-team",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/excellalabs/ngComponentRouter/issues"
-  },
-  "homepage": "https://github.com/excellalabs/ngComponentRouter#readme"
+  "homepage": "https://github.com/ElephoneApp/ngComponentRouter#readme"
 }
