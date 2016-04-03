@@ -2,7 +2,7 @@
   "name": "ngcomponentrouter",
   "version": "2.0.0",
   "description": "Angular 2 Component Router for Angular 1",
-  "main": "index.js",
+  "main": "angular_1_router.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
